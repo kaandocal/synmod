@@ -12,7 +12,7 @@ Dependencies include:
 - [GpABC.jl](https://github.com/tanhevg/GpABC.jl)
 - [BlackBoxOptim.jl](https://github.com/robertfeldt/BlackBoxOptim.jl)
 
-This repository contains a forked copy of [HMMBase.jl](https://github.com/maxmouchet/HMMBase.jl) to support time-inhomogeneous HMMs. Running the MAPK Pathway example requires data from [[1]](#1) which can be obtained from the authors.
+This repository contains a fork of [HMMBase.jl](https://github.com/maxmouchet/HMMBase.jl) (found [here](https://github.com/kaandocal/HMMBase.jl)) to support time-inhomogeneous HMMs. Running the MAPK Pathway example requires data from [[1]](#1) which can be obtained from the authors.
 
 ### Examples:
 - Autoregulatory Feedback Loop (folder `afl`)

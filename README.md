@@ -1,9 +1,9 @@
 # Synthetic Models for Stochastic Biochemical Reaction Systems
 
 This repository contains the code for the paper
-```
-K. Öcal, Michael U. Gutmann, G. Sanguinetti, R. Grima, "Inference and uncertainty quantification for stochastic gene expression via synthetic models", biorXiv: 
-```
+
+K. Öcal, Michael U. Gutmann, G. Sanguinetti, R. Grima, "Inference and uncertainty quantification for stochastic gene expression via synthetic models", 
+https://doi.org/10.1101/2022.01.25.477666 
 
 Dependencies include:
 - [Catalyst.jl](https://github.com/SciML/Catalyst.jl)
